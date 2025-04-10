@@ -45,4 +45,6 @@ The application supports up to **10 student entries** at a time and displays all
 - **Makau Nathan Maganga** – `150460`  
 - **Jaoko Stephanie** – `151389`
 
-- *This README file was generated using Chatgpt
+
+
+*This README file was generated using Chatgpt
